@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-image: url('https://www.shutterstock.com/image-vector/vector-seamless-pattern-blogging-social-600nw-434264536.jpg'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+}
